@@ -1,0 +1,11 @@
+requisicao;requisicaoCoupa;requisitante;textoCabecalho;centroCusto;empresa;dataEmissao;politica;localNegocio
+1000000001;CP-00001;ana.silva;Compra de notebooks para o time de TI;CC1001;1000;2026-01-12;Compras de TI;Matriz Sao Paulo
+1000000002;CP-00002;ana.silva;Servico de consultoria SAP;CC1002;1000;2026-01-20;Servicos Profissionais;Matriz Sao Paulo
+1000000003;CP-00003;bruno.costa;Material de escritorio mensal;CC2001;2000;2026-02-03;Compras Gerais;Filial Rio de Janeiro
+1000000004;CP-00004;bruno.costa;Licencas de software anual;CC2002;2000;2026-02-15;Compras de TI;Filial Rio de Janeiro
+1000000005;CP-00005;carla.mendes;Manutencao predial trimestral;CC3001;3000;2026-03-01;Facilities;Centro de Distribuicao
+1000000006;CP-00006;carla.mendes;Frete de mercadorias importadas;CC3002;3000;2026-03-10;Logistica;Centro de Distribuicao
+1000000007;CP-00007;daniel.rocha;Campanha de marketing digital;CC4001;1000;2026-03-22;Marketing;Matriz Sao Paulo
+1000000008;CP-00008;daniel.rocha;Treinamento de equipe comercial;CC4002;1000;2026-04-05;Treinamento;Matriz Sao Paulo
+1000000009;CP-00009;ana.silva;Equipamentos de seguranca EPI;CC2001;2000;2026-04-18;Compras Gerais;Filial Rio de Janeiro
+1000000010;CP-00010;bruno.costa;Servico de limpeza terceirizado;CC3001;3000;2026-05-02;Facilities;Centro de Distribuicao

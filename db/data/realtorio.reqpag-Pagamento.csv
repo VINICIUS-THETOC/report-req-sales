@@ -1,0 +1,11 @@
+ID;cabecalho_requisicao;descricao;fornecedor;primeiroNome;segundoNome;formaPagamento;dataEmissao;dataVencimento;documento;moeda;valor;tipoDocumento
+11111111-1111-1111-1111-000000000001;1000000001;Notebooks Dell Latitude;Dell Computadores Ltda;Joao;Pereira;Transferencia;2026-01-12;2026-02-12;NF-55001;BRL;45000.00;Fatura
+11111111-1111-1111-1111-000000000002;1000000002;Consultoria implantacao SAP;Accenture do Brasil;Maria;Souza;Boleto;2026-01-20;2026-03-20;NF-55002;BRL;120000.00;Fatura
+11111111-1111-1111-1111-000000000003;1000000003;Material de escritorio diverso;Kalunga S.A.;Pedro;Lima;Cartao Corporativo;2026-02-03;2026-02-18;NF-55003;BRL;3200.50;Nota Fiscal
+11111111-1111-1111-1111-000000000004;1000000004;Licencas Microsoft 365;Microsoft Brasil;Lucas;Almeida;Transferencia;2026-02-15;2026-03-15;NF-55004;USD;18000.00;Fatura
+11111111-1111-1111-1111-000000000005;1000000005;Manutencao ar-condicionado;Climatech Servicos;Rafael;Gomes;Boleto;2026-03-01;2026-03-31;NF-55005;BRL;7800.00;Nota Fiscal
+11111111-1111-1111-1111-000000000006;1000000006;Frete internacional maritimo;Maersk Logistica;Carlos;Dias;Transferencia;2026-03-10;2026-04-10;NF-55006;USD;32500.00;Fatura
+11111111-1111-1111-1111-000000000007;1000000007;Anuncios Google e Meta;Google Brasil;Fernanda;Castro;Cartao Corporativo;2026-03-22;2026-04-22;NF-55007;BRL;25000.00;Fatura
+11111111-1111-1111-1111-000000000008;1000000008;Treinamento tecnicas de vendas;Sebrae;Patricia;Nunes;Boleto;2026-04-05;2026-05-05;NF-55008;BRL;9600.00;Nota Fiscal
+11111111-1111-1111-1111-000000000009;1000000009;Kit EPI completo;3M do Brasil;Roberto;Fernandes;Transferencia;2026-04-18;2026-05-18;NF-55009;BRL;14200.00;Fatura
+11111111-1111-1111-1111-000000000010;1000000010;Limpeza e conservacao predial;ServLimp Terceirizacao;Sandra;Ribeiro;Boleto;2026-05-02;2026-06-02;NF-55010;BRL;5400.00;Nota Fiscal

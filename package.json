@@ -1,0 +1,41 @@
+{
+  "name": "realtorio-cap",
+  "version": "1.0.0",
+  "description": "Protótipo CAP - Relatório de Requisições de Pagamento (integração COUPA / S4 HANA)",
+  "private": true,
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@sap/cds": "^9",
+    "express": "^4"
+  },
+  "devDependencies": {
+    "@cap-js/sqlite": "^2",
+    "cds-plugin-ui5": "^0.13.0"
+  },
+  "scripts": {
+    "start": "cds-serve",
+    "watch": "cds watch",
+    "watch-reqreport": "cds watch --open realtorio.reqreport/index.html?sap-ui-xx-viewCache=false --livereload false"
+  },
+  "cds": {
+    "requires": {
+      "db": {
+        "kind": "sqlite",
+        "credentials": {
+          "url": ":memory:"
+        }
+      },
+      "auth": {
+        "kind": "mocked"
+      }
+    }
+  },
+  "workspaces": [
+    "app/*"
+  ],
+  "sapux": [
+    "app/reqreport"
+  ]
+}

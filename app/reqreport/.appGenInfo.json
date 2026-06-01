@@ -1,0 +1,28 @@
+{
+  "generationParameters": {
+    "generationDate": "Sun May 31 2026 23:37:26 GMT-0300 (Brasilia Standard Time)",
+    "generatorPlatform": "CLI",
+    "serviceType": "Local CAP",
+    "metadataFilename": "",
+    "serviceUrl": "http://localhost:4004/service/ReqReport/",
+    "appName": "reqreport",
+    "appTitle": "Relatório de Requisições",
+    "appDescription": "Protótipo List Report + Object Page de Requisições de Pagamento",
+    "appNamespace": "realtorio",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.147.0",
+    "enableEslint": false,
+    "enableTypeScript": false,
+    "showMockDataInfo": false,
+    "generatorVersion": "1.25.0",
+    "template": "List Report Page V4",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "Requisicoes"
+      }
+    ],
+    "launchText": "To launch the generated app, start your CAP project:  and navigate to the following location in your browser:\n\nhttp://localhost:4004/reqreport/webapp/index.html"
+  }
+}

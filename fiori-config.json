@@ -1,0 +1,33 @@
+{
+  "version": "0.2",
+  "floorplan": "FE_LROP",
+  "project": {
+    "title": "Relatório de Requisições",
+    "description": "Protótipo List Report + Object Page de Requisições de Pagamento",
+    "namespace": "realtorio",
+    "ui5Version": "",
+    "localUI5Version": "",
+    "name": "reqreport",
+    "targetFolder": "/Users/user1/Documents/realtorio_cap/app",
+    "ui5Theme": "sap_horizon",
+    "enableEslint": false,
+    "sapux": true
+  },
+  "service": {
+    "servicePath": "/service/ReqReport/",
+    "host": "http://localhost:4004",
+    "version": "4",
+    "source": "capProject",
+    "capService": {
+      "projectPath": ".",
+      "serviceName": "ReqReportService",
+      "serviceCdsPath": "srv/report-service.cds",
+      "appPath": "app"
+    }
+  },
+  "entityConfig": {
+    "mainEntity": {
+      "entityName": "Requisicoes"
+    }
+  }
+}
